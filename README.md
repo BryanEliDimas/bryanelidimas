@@ -5,11 +5,11 @@ I am a seasoned Ruby on Rails engineer with substantial experience in every face
 8 years total of experience crafting and maintaining full-stack web applications. Well-versed in detecting and resolving deep, complex errors by leveraging strong technical knowledge and ingenuity. Welcomes tight deadlines with confidence, showcasing an ability to thrive under pressure. Recognized for generating multiple ingenious solutions to build consensus within cross-functional teams. Track record of successfully contributing in every facet of the Software Development Lifecycle (SDLC). Advocate for producing meticulously crafted code, emphasizing clarity and adherence to the Single Responsibility Principle to ensure a clear and effective communication of its intended purpose. Adept at developing web applications from scratch, but excels at improving existing systems.
 
 Areas where I really shine include: 
-• Backend Development: Ruby on Rails, Rspec, Capybara, Redis
-• Frontend Development: Vanilla JavaScript, Slim templates, jQuery, Bootstrap
-• Continuous Integration/Development: GitHub, CircleCI, Travis CI, Jenkins
-• Database Management: PostgreSQL through ActiveRecord ORM
-• API Development: JSON, RESTful
+- Backend Development: Ruby on Rails, Rspec, Capybara, Redis
+- Frontend Development: Vanilla JavaScript, Slim templates, jQuery, Bootstrap
+- Continuous Integration/Development: GitHub, CircleCI, Travis CI, Jenkins
+- Database Management: PostgreSQL through ActiveRecord ORM
+- API Development: JSON, RESTful
 
 
 Please connect with me on [LinkedIn](https://www.linkedin.com/in/bryaneli100/) to share your thoughts, comments, or questions about my work.
